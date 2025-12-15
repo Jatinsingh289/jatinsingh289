@@ -1,9 +1,12 @@
 ## Hi there 👋
 I am jatin,software engineer student 
-i mostly use frontend stuff like html, react ,tailwind and bit of framer
-gsap for ui design
+
+i mostly use frontend stuff like html, react ,tailwind
+
 for backend experience in python and  c++ 
+
 experience AI and Data structures 
+
 🌱 I’m currently learning Machine Learning.
 
 this is fresh profile i'll be uploading some smaller projects, experiments and things I'm currently working on. Everything is built in from scratch not copy paste
