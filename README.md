@@ -13,12 +13,16 @@ this is fresh profile i'll be uploading some smaller projects, experiments and t
 
 ## TOOLS & TECH
 **Language:** Python,c++,Html
+
 **Backend:** Python backend logic, APIs,  build AI chatbots 
+
 **Database:** Basic knowledge of Firebase and SQL
 
 ## ABOUT ME
 ☕ Coffee person
+
 🖤 Into anime (Death Note)
+
 🛠️ I like building things that are simple, useful, and easy to understand
 
 
